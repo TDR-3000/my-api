@@ -19,7 +19,7 @@
 -------
  
 ## Api Features
-Check it yourself [Here](https://my-api.herokuapp.com)
+Check it yourself [Here](https://api-zeeoneofc.herokuapp.com/)
 
 
 ## Cara Ganti ApiKey Gimana?
